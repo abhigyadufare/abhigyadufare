@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I'm Abhigya</h1>
   <h3>I am a FullStack web Developer & Designer</h3>
+  <p>React, Next, Wordpress, Shopify</p>
   <p><img src="https://komarev.com/ghpvc/?username=abhigyadufare&style=for-the-badge" alt="abhigyadufare" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigyadufare&show_icons=true&locale=en&layout=compact" alt="abhigyadufare" /></p>
 </div>
